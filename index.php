@@ -238,7 +238,7 @@ session_start();
     </section><!-- End Details Section -->
 
     <!-- ======= Gallery Section ======= -->
-    <section id="gallery" class="gallery">
+    <!-- <section id="gallery" class="gallery">
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
@@ -268,7 +268,7 @@ session_start();
         </div>
 
       </div>
-    </section><!-- End Gallery Section -->
+    </section> End Gallery Section -->
 
     <!-- ======= Testimonials Section ======= -->
     <section id="testimonials" class="testimonials section-bg">
@@ -355,7 +355,7 @@ session_start();
     </section><!-- End Testimonials Section -->
 
     <!-- ======= Pricing Section ======= -->
-    <section id="pricing" class="pricing">
+    <!-- <section id="pricing" class="pricing">
       <div class="container">
 
         <div class="section-title">
@@ -407,7 +407,7 @@ session_start();
         </div>
 
       </div>
-    </section><!-- End Pricing Section -->
+    </section> End Pricing Section -->
 
     <!-- ======= Frequently Asked Questions Section ======= -->
     <section id="faq" class="faq section-bg">
